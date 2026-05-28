@@ -20,6 +20,7 @@ https://fertilizerrecommendationsystem-mkmzygvzyfaxeaalbgnwjs.streamlit.app/
 - Real-time prediction
 - Streamlit web application
 - Confidence score prediction
+- User-friendly responsive interface
 
 ---
 
@@ -61,7 +62,6 @@ https://fertilizerrecommendationsystem-mkmzygvzyfaxeaalbgnwjs.streamlit.app/
 
 ## 🚀 Future Improvements
 
-- Fertilizer quantity recommendation
 - Weather API Integration
 - Soil Health Analysis
 - Multi-language Support
